@@ -1,0 +1,22 @@
+[
+  {
+    "id":"0",
+    "nome":"The Shawshank Redemption",
+    "resumo": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity."
+  },
+  {
+    "id":"1",
+    "nome":"The Godfather",
+    "resumo": "The story spans the years from 1945 to 1955 and chronicles the fictional Italian-American Corleone crime family. When organized crime family patriarch Vito Corleone barely survives an attempt on his life, his youngest son, Michael, steps in to take care of the would-be killers, launching a campaign of bloody revenge."
+  },
+  {
+    "id":"2",
+    "nome":"Spirited Away",
+    "resumo": "Spirited Away is an Oscar winning Japanese animated film about a ten year old girl who wanders away from her parents along a path that leads to a world ruled by strange and unusual monster-like animals. Her parents have been changed into pigs along with others inside a bathhouse full of these creatures. Will she ever see the world how it once was?"
+  },
+  {
+    "id":"3",
+    "nome":"Interstellar",
+    "resumo":"Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
+  }
+]
